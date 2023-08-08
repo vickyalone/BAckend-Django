@@ -2,7 +2,7 @@
 
 ## Overview
 This repository is for a tutorial on how to implement Django CI/CD Pipeline in AWS.
-It contains important scripts needed to carry out both CI and CD operations respectively on AWS throoug CodeBuild and CodeDeploy
+It contains important scripts needed to carry out both CI and CD operations respectively on AWS throoug CodeBuild and CodeDeploy.
 
 
 ## CodeBuild
